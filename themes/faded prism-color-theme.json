@@ -48,7 +48,8 @@
 				"keyword.operator.wordlike",
 				"storage.type.primitive",
 				"storage.type.var",
-				"storage.type.function"
+				"storage.type.function",
+				"storage.type.built-in"
 			],
 			"settings": {
 				"foreground": "#ff8d74"
@@ -82,7 +83,7 @@
 				"entity.other.inherited-class",
 				"support.class",
 				"storage.type",
-				"support.type.property-name"
+				"support.type"
 			],
 			"settings": {
 				"foreground": "#7bbdff" // "#a0f5ff"
