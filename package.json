@@ -1,0 +1,23 @@
+{
+  "name": "faded-prism-theme",
+  "displayName": "Faded Prism Theme",
+  "publisher": "ryanabx",
+  "repository": "",
+  "description": "A personal theme Ryan Brue uses while coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Faded Prism",
+        "uiTheme": "vs-dark",
+        "path": "./themes/faded prism-color-theme.json"
+      }
+    ]
+  }
+}
