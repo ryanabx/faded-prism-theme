@@ -2,8 +2,8 @@
   "name": "faded-prism-theme",
   "displayName": "Faded Prism Theme",
   "publisher": "ryanabx",
-  "repository": "",
-  "description": "A personal theme Ryan Brue uses while coding.",
+  "repository": "https://github.com/ryanabx/faded-prism-theme",
+  "description": "A personal theme Ryan Brue uses occasionally while coding.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
