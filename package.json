@@ -4,7 +4,7 @@
   "publisher": "ryanabx",
   "repository": "https://github.com/ryanabx/faded-prism-theme",
   "description": "A personal theme Ryan Brue uses occasionally while coding.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.83.0"
   },
