@@ -5,15 +5,15 @@
 		"foreground": "#d8d8d8",
 		"editor.foreground": "#d8d8d8",
 		// Alt Color 1 Highlight #ab616b42
-		"list.activeSelectionBackground": "#ab616b42",
+		"list.activeSelectionBackground": "#ff8d7442",
 
-		// Alt Color 1 Light #ab616b
-		"focusBorder": "#ab616b",
-		"activityBarBadge.background": "#ab616b",
-		// Alt Color 1 Dark #593237
-		"button.background": "#593237",
-		// Alt Color 1 Darker #2a171a
-		"statusBar.debuggingBackground": "#2a171a",
+		// Alt Color 1 Light #ff8d74
+		"focusBorder": "#ff8d74",
+		"activityBarBadge.background": "#ff8d74",
+		// Alt Color 1 Dark #b46452
+		"button.background": "#b46452",
+		// Alt Color 1 Darker #311b17
+		"statusBar.debuggingBackground": "#311b17",
 		// Dark Color 1 #181818
 		"statusBar.background": "#181818",
 		"statusBar.noFolderBackground": "#181818",
