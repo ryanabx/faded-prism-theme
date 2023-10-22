@@ -46,10 +46,7 @@
 				"storage.modifier",
 				"keyword",
 				"keyword.operator.wordlike",
-				"storage.type.primitive",
-				"storage.type.var",
-				"storage.type.function",
-				"storage.type.built-in"
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#ff8d74"
@@ -82,7 +79,6 @@
 				"entity.name.type",
 				"entity.other.inherited-class",
 				"support.class",
-				"storage.type",
 				"support.type"
 			],
 			"settings": {
