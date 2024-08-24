@@ -1,10 +1,11 @@
 {
   "name": "faded-prism-theme",
+  "icon": "https://github.com/ryanabx/faded-prism-theme/tree/main//faded-prism-small.png",
   "displayName": "Faded Prism Theme",
   "publisher": "ryanabx",
   "repository": "https://github.com/ryanabx/faded-prism-theme",
-  "description": "A personal theme Ryan Brue uses occasionally while coding.",
-  "version": "0.0.5",
+  "description": "A vibrant pastel theme that Ryan Brue uses while coding.",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -16,7 +17,7 @@
       {
         "label": "Faded Prism",
         "uiTheme": "vs-dark",
-        "path": "./themes/faded prism-color-theme.json"
+        "path": "./themes/faded-prism-color-theme.json"
       }
     ]
   }
