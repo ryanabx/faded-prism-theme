@@ -1,6 +1,6 @@
 {
   "name": "faded-prism-theme",
-  "icon": "https://github.com/ryanabx/faded-prism-theme/blob/main/res/faded-prism-small-logo.png?raw=true",
+  "icon": "res/faded-prism-small-logo.png",
   "displayName": "Faded Prism Theme",
   "publisher": "ryanabx",
   "repository": "https://github.com/ryanabx/faded-prism-theme",
