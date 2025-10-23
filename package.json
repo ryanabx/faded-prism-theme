@@ -1,11 +1,11 @@
 {
-  "name": "faded-prism-theme",
+  "name": "faded-prism-color-theme",
   "icon": "res/faded-prism-small-logo.png",
-  "displayName": "Faded Prism Theme",
+  "displayName": "Faded Prism Color Theme",
   "publisher": "ryanabx",
   "repository": "https://github.com/ryanabx/faded-prism-theme",
-  "description": "A vibrant pastel theme that Ryan Brue uses while coding.",
-  "version": "0.1.0",
+  "description": "A vibrant pastel theme, inspired by Atom's One Dark Theme.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.83.0"
   },
