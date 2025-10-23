@@ -1,11 +1,19 @@
 {
-  "name": "faded-prism-color-theme",
+  "name": "faded-prism-theme",
   "icon": "res/faded-prism-small-logo.png",
+  "license": "MIT",
   "displayName": "Faded Prism Color Theme",
   "publisher": "ryanabx",
-  "repository": "https://github.com/ryanabx/faded-prism-theme",
-  "description": "A vibrant pastel theme, inspired by Atom's One Dark Theme.",
-  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanabx/faded-prism-color-theme",
+    "directory": "."
+  },
+  "bugs": {
+    "url": "https://github.com/ryanabx/faded-prism-color-theme/issues"
+  },
+  "description": "A faint pastel theme, inspired by Atom's One Dark Theme.",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
