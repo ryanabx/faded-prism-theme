@@ -19,8 +19,8 @@ Using this simple framework, the rest of the features came naturally.
 
 - [VSCode](https://marketplace.visualstudio.com/items?itemName=ryanabx.faded-prism-theme)
 - [VSCodium](https://open-vsx.org/extension/ryanabx/faded-prism-theme)
+- Helix (TOML file in repo)
 - Lapce (WIP)
-- Helix (WIP)
 
 ## Contributing
 

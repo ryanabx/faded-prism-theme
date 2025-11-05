@@ -88,27 +88,29 @@ hint = "suggestion_blue"
 rainbow = ["vibrant_yellow", "vibrant_green", "vibrant_blue", "vibrant_purple", "vibrant_red", "vibrant_orange"]
 
 [palette]
+# Grayscale
 white = "#d8d8d8"
 off_white = "#909090"
 light_gray = "#6c6c6c"
 gray = "#4d4d4d"
 dark_gray = "#252525"
 black = "#181818"
-diff_yellow = "#ffea8a"
+# Diffs and diagnostics
 diff_red = "#ff3e3e"
+diff_yellow = "#ffea8a"
 diff_green = "#6eff69"
 error_red = "#ff3e3e"
 warning_yellow = "#ffd932"
 suggestion_blue = "#4fd6ff"
+# Pastel colors
 light_red = "#f7afaf"
 red = "#ff8d74"
-darker_red = "#b46452"
-darkest_red = "#311b17"
 yellow = "#fffa9f"
 green = "#abff8d"
 blue = "#7bbdff"
 light_blue = "#b8e3ff"
 purple = "#f5c8ff"
+# Vibrant colors, used exclusively for bracket rainbows
 vibrant_yellow = "#fffd78"
 vibrant_green = "#6cffa4"
 vibrant_blue = "#628cff"
