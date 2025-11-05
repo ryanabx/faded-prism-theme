@@ -1,20 +1,19 @@
 {
 	"name": "Faded Prism",
 	"colors": {
-		// Foreground Color 1 #d8d8d8
+		// white
 		"foreground": "#d8d8d8",
 		"editor.foreground": "#d8d8d8",
-		// Alt Color 1 Highlight #ab616b42
-		"list.activeSelectionBackground": "#ff8d7442",
-
-		// Alt Color 1 Light #ff8d74
-		"focusBorder": "#ff8d74",
-		"activityBarBadge.background": "#ff8d74",
-		// Alt Color 1 Dark #b46452
-		"button.background": "#b46452",
-		// Alt Color 1 Darker #311b17
-		"statusBar.debuggingBackground": "#311b17",
-		// Dark Color 1 #181818
+		// off_white
+		"focusBorder": "#909090",
+		// light_gray
+		"button.background": "#6c6c6c",
+		"activityBarBadge.background": "#6c6c6c",
+		// gray
+		"list.activeSelectionBackground": "#4d4d4d",
+		// dark_gray
+		"editor.background": "#252525",
+		// black
 		"statusBar.background": "#181818",
 		"statusBar.noFolderBackground": "#181818",
 		"activityBar.background": "#181818",
@@ -27,9 +26,11 @@
 		"titleBar.inactiveBackground": "#181818",
 		"sideBar.background": "#181818",
 		"editorGroupHeader.tabsBackground": "#181818",
+		// darkest_red
+		"statusBar.debuggingBackground": "#311b17",
+		// Dark Color 1 #181818
 		
 		// Editor Background Color #252525
-		"editor.background": "#252525",
 		// Editor Bracket Highlighting
 		"editorBracketHighlight.foreground1": "#fffd78",
 		"editorBracketHighlight.foreground2": "#6cffa4",

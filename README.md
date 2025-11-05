@@ -15,6 +15,13 @@ I really like the One Dark Pro theme, but I felt like the colors were switched f
 
 Using this simple framework, the rest of the features came naturally.
 
+## In all your favorite editors
+
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=ryanabx.faded-prism-theme)
+- [VSCodium](https://open-vsx.org/extension/ryanabx/faded-prism-theme)
+- Lapce (WIP)
+- Helix (WIP)
+
 ## Contributing
 
 If you'd like to make sure colors in your language of choice are properly defined, please make a PR!

@@ -1,0 +1,64 @@
+[palette]
+white = "#d8d8d8"
+off_white = "#909090"
+light_gray = "#6c6c6c"
+gray = "#4d4d4d"
+dark_gray = "#252525"
+black = "#181818"
+diff_yellow = "#ffea8a"
+diff_red = "#ff3e3e"
+diff_green = "#6eff69"
+error_red = "#ff3e3e"
+warning_yellow = "#ffd932"
+suggestion_blue = "#4fd6ff"
+light_red = "#f7afaf"
+red = "#ff8d74"
+darker_red = "#b46452"
+darkest_red = "#311b17"
+yellow = "#fffa9f"
+green = "#abff8d"
+blue = "#7bbdff"
+light_blue = "#b8e3ff"
+purple = "#f5c8ff"
+vibrant_yellow = "#fffd78"
+vibrant_green = "#6cffa4"
+vibrant_blue = "#628cff"
+vibrant_purple = "#e552ff"
+vibrant_red = "#ff4b90"
+vibrant_orange = "#ff915a"
+
+[colors]
+foreground = $white
+alt_background = $black
+editor_background = $dark_gray
+
+selection_color = $gray
+
+ui_borders & light_badge_background = $red
+ui_alt_background = $darker_red
+
+debug_background = $darkest_red
+
+highlight1 = $vibrant_yellow
+highlight2 = $vibrant_green
+highlight3 = $vibrant_blue
+highlight4 = $vibrant_purple
+highlight5 = $vibrant_red
+highlight6 = $vibrant_orange
+
+keywords = $red
+constants = $light_red
+punctuation & operators = $off_white
+classes & types = $blue
+enums & constants = $light_blue
+functions & methods = $green
+variables = $white
+strings = $yellow
+numbers = $purple
+comment = $light_gray
+
+warn = $warning_yellow
+error = $error_red
+suggestion = $suggestion_blue
+modified = $modified_yellow
+new = $new_green
