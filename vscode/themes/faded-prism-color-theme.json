@@ -7,7 +7,6 @@
 		// off_white
 		"focusBorder": "#909090",
 		// gray
-		"button.background": "#4d4d4d",
 		"list.activeSelectionBackground": "#4d4d4d",
 		"editor.selectionBackground": "#4d4d4d",
 		// dark_gray
@@ -27,6 +26,7 @@
 		"editorGroupHeader.tabsBackground": "#181818",
 		"activityBarBadge.foreground": "#181818",
 		"statusBar.debuggingForeground": "#181818",
+		"button.foreground": "#181818",
 		// diff_red
 		"editorGutter.deletedBackground": "#ff3e3e",
 		// diff_yellow
@@ -44,6 +44,7 @@
 		"statusBar.debuggingBackground": "#ff8d74",
 		// blue
 		"activityBarBadge.background": "#7bbdff",
+		"button.background": "#7bbdff",
 		// vibrant_yellow
 		"editorBracketHighlight.foreground1": "#fffd78",
 		// vibrant_green

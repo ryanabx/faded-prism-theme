@@ -1,26 +1,25 @@
-# Syntax highlighting
-# -------------------
-"attribute" = "yellow"
+# Author: Ryan Brue <ryanbrue.dev@gmail.com>
 
-"type" = "blue"
-"type.enum.variant" = "light_blue"
+# Syntax
 
-"constructor" = "green"
-
-"constant" = "light_blue"
-"constant.numeric" = "purple"
-
-"string" = "yellow"
-
-"comment" = "light_gray"
 "variable" = "white"
+"namespace" = "white"
 "punctuation" = "off_white"
 "operator" = "off_white"
+"comment" = "light_gray"
+
 "keyword" = "red"
-"function" = "green"
-"namespace" = "white"
-"special" = "red" # fuzzy highlight
+"special" = "red"
 "label" = "red"
+"tag" = "red"
+"string" = "yellow"
+"attribute" = "green"
+"constructor" = "green"
+"function" = "green"
+"type" = "blue"
+"type.enum.variant" = "light_blue"
+"constant" = "light_blue"
+"constant.numeric" = "purple"
 
 "markup.heading.1" = "vibrant_yellow"
 "markup.heading.2" = "vibrant_green"
@@ -29,12 +28,8 @@
 "markup.heading.5" = "vibrant_red"
 "markup.heading.6" = "vibrant_orange"
 
-"diff.plus" = "diff_green"
-"diff.minus" = "diff_red"
-"diff.delta" = "diff_yellow"
+# UI
 
-# User Interface
-# --------------
 "ui.background" = { fg = "white", bg = "dark_gray" }
 
 "ui.linenr" = { fg = "off_white" }
@@ -84,6 +79,10 @@ error = "error_red"
 warning = "warning_yellow"
 info = "suggestion_blue"
 hint = "suggestion_blue"
+
+"diff.plus" = "diff_green"
+"diff.minus" = "diff_red"
+"diff.delta" = "diff_yellow"
 
 rainbow = ["vibrant_yellow", "vibrant_green", "vibrant_blue", "vibrant_purple", "vibrant_red", "vibrant_orange"]
 
